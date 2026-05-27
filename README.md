@@ -28,7 +28,7 @@ Search for 'Tally' or visit the [extension page](https://extensions.gnome.org) (
 
 ### Manual
 
-Fetch the latest zip from [releases](https://github.com/hemish/tally/releases/latest).
+Fetch the latest zip from [releases](https://github.com/imhemish/gnome-extension-tally/releases/latest/download/tally@hemish.net.zip).
 
 ```bash
 # Extract into extensions folder
