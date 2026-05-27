@@ -1,0 +1,9 @@
+{
+  "uuid": "tally@hemish.net",
+  "name": "Tally",
+  "description": "A minimal click counter in the top bar. Left-click increments, right-click decrements. Count persists across restarts.",
+  "version-name": "0.1",
+  "shell-version": ["49", "50"],
+  "settings-schema": "org.gnome.shell.extensions.tally-hemish",
+  "url": "https://github.com/imhemish/gnome-extension-tally"
+}
