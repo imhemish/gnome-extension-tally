@@ -85,6 +85,7 @@ export default class TallyPreferences extends ExtensionPreferences {
                 version: '0.1',
                 developer_name: 'Hemish',
                 website: 'https://hemish.net',
+                comments: 'A minimal click counter in the GNOME top bar. Left-click increments, right-click decrements. Count persists across restarts.',
                 license_type: Gtk.License.GPL_3_0,
             });
             aboutDialog.add_link('contact@hemish.net', 'mailto:contact@hemish.net');
