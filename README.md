@@ -24,7 +24,7 @@ The count persists across restarts and session locks as it is saved directly in 
 
 ### From extensions.gnome.org (Review pending)
 
-Search for 'Tally' or visit the [extension page](https://extensions.gnome.org) (review pending).
+Search for 'Tally' or visit the [GNOME Extensions page](https://extensions.gnome.org/extension/10050/tally/).
 
 ### Manual
 
